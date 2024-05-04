@@ -48,7 +48,7 @@ body {
     transform: translate(100%);
     animation: moveleft 0.5s linear forwards;
 }
-
+ 
 @keyframes moveleft {
     100%{
         transform: translateX(0);
